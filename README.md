@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Olá, sou do Brasil, São Paulo - SP.<br><br>🔭 Atualmente, trabalho com Linux e Docker, focando em ambientes de contêineres e administração de sistemas.<br>📚 No momento, estou me aprofundando em Kubernetes e práticas de CI/CD para otimizar o desenvolvimento e a entrega de software.<br>⚡ No meu tempo livre, gosto de explorar HTML e CSS, além de criar projetos pessoais para aprimorar minhas habilidades em desenvolvimento web.</p>
+<p align="left">Olá, sou Diego Luz do Brasil, São Paulo - SP.<br><br>🔭 Atualmente, trabalho com Linux e Docker, focando em ambientes de contêineres e administração de sistemas.<br>📚 No momento, estou me aprofundando em Kubernetes e práticas de CI/CD para otimizar o desenvolvimento e a entrega de software.<br>⚡ No meu tempo livre, gosto de explorar HTML e CSS, além de criar projetos pessoais para aprimorar minhas habilidades em desenvolvimento web.</p>
 
 ###
 
