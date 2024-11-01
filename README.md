@@ -1,25 +1,3 @@
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/161847415?s=400&u=f9ea61ae70f235102df8b31f869f7b60e2c0676b&v=4"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/diego-alves-da-luz-79465099/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/diegoa_luz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=diego-luz.diego-luz&"  />
-</div>
-
-###
 
 <h1 align="center">Olá👋</h1>
 
