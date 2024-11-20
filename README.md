@@ -7,7 +7,11 @@
 
 ###
 
-<p align="left">Olá, sou Diego Luz <br><br>🔭 Atualmente, trabalho com Linux e Docker, focando em ambientes de contêineres e administração de sistemas.<br>📚 No momento, estou me aprofundando em Kubernetes e práticas de CI/CD para otimizar o desenvolvimento e a entrega de software.<br>⚡ No meu tempo livre, gosto de explorar HTML e CSS, além de criar projetos pessoais para aprimorar minhas habilidades em desenvolvimento web.</p>
+🔧 Profissional de TI com ampla experiência em Windows e Linux, especializado na administração de infraestrutura e no gerenciamento de ambientes de contêineres. Tenho um foco constante na automação e otimização de fluxos de trabalho, visando soluções mais ágeis e eficientes.
+
+🚀 Atualmente, estou estudando Kubernetes e nas melhores práticas de CI/CD, com o objetivo de aprimorar a entrega contínua, escalabilidade e a eficiência no desenvolvimento de software.
+
+🌱 Apaixonado por tecnologia, gosto de explorar novas ferramentas e frameworks, com especial interesse por HTML, CSS e o desenvolvimento de projetos web, sempre em busca de inovar e expandir minhas habilidades.
 
 ###
 
