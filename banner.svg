@@ -1,10 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Diego Luz: infraestrutura">
-  <defs>
-    <linearGradient id="t" x1="0" x2="1"><stop offset="0" stop-color="#79c0ff"/><stop offset=".55" stop-color="#56d4dd"/><stop offset="1" stop-color="#7ee787"/></linearGradient>
-  </defs>
   <rect x=".5" y=".5" width="1199" height="219" rx="16" fill="#000" stroke="#30363d"/>
   <text x="72" y="78" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" fill="#7d8590">$ whoami</text>
   <text x="70" y="132" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="44" font-weight="700" fill="#f0f6fc">Diego Luz</text>
-  <text x="72" y="170" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="22" fill="url(#t)">Infraestrutura</text>
+  <text x="72" y="170" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="22" fill="#f0f6fc">Infraestrutura</text>
   <text x="1128" y="170" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#7d8590">Linux · Docker · Ansible · Python · Go</text>
 </svg>
