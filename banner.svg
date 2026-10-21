@@ -1,22 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Diego Luz: infraestrutura">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Diego Luz: infraestrutura">
   <defs>
-    <filter id="b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
-    <clipPath id="c"><rect width="1200" height="300" rx="16"/></clipPath>
     <linearGradient id="t" x1="0" x2="1"><stop offset="0" stop-color="#79c0ff"/><stop offset=".55" stop-color="#56d4dd"/><stop offset="1" stop-color="#7ee787"/></linearGradient>
   </defs>
-  <g clip-path="url(#c)">
-    <rect width="1200" height="300" fill="#0d1117"/>
-    <circle cx="140" cy="40" r="150" fill="#1f6feb" opacity=".35" filter="url(#b)"/>
-    <circle cx="1020" cy="60" r="160" fill="#238636" opacity=".35" filter="url(#b)"/>
-    <circle cx="760" cy="320" r="170" fill="#8957e5" opacity=".28" filter="url(#b)"/>
-    <circle cx="1150" cy="280" r="120" fill="#1b7c83" opacity=".35" filter="url(#b)"/>
-    <g stroke="#30363d" stroke-width="1" opacity=".5">
-      <path d="M0 75H1200M0 150H1200M0 225H1200"/>
-    </g>
-  </g>
-  <rect x=".5" y=".5" width="1199" height="299" rx="16" fill="none" stroke="#30363d"/>
-  <text x="72" y="98" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20" fill="#7d8590">$ whoami</text>
-  <text x="70" y="170" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="68" font-weight="700" fill="#f0f6fc">Diego Luz</text>
-  <text x="72" y="222" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="26" fill="url(#t)">Infraestrutura</text>
-  <text x="1128" y="252" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" fill="#7d8590">Linux · Docker · Ansible · Python · Go</text>
+  <rect x=".5" y=".5" width="1199" height="219" rx="16" fill="#000" stroke="#30363d"/>
+  <text x="72" y="78" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18" fill="#7d8590">$ whoami</text>
+  <text x="70" y="132" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="44" font-weight="700" fill="#f0f6fc">Diego Luz</text>
+  <text x="72" y="170" font-family="-apple-system,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="22" fill="url(#t)">Infraestrutura</text>
+  <text x="1128" y="170" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#7d8590">Linux · Docker · Ansible · Python · Go</text>
 </svg>
